@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-prerequisites.html 
+keywords: what are bluexp alerts requirements, bluexp alerts, alerts prerequisites 
+summary: 環境、ネットワークアクセス、ログイン、Webブラウザのサポートを確認して、BlueXP  アラートの使用を開始します。 
+---
+= BlueXP  アラートの前提条件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/get-started/
+
+
+[role="lead"]
+運用環境の準備状況を確認して、BlueXP  アラートの使用を開始します。
+
+BlueXP  アラートを使用するには、次の前提条件が必要です。
+
+* ONTAP 9 .10以降。オンプレミスの作業環境がBlueXP  キャンバスで検出されている必要があります。
++
+** クラスタカンリシヤONTAPノケンケン
++
+ライセンスをBlueXP  デジタルウォレットに入力する必要はありません。
+
+
+
+* BlueXPの場合：
++
+** オンプレミスのNetApp NASまたはSANストレージを使用したBlueXP  作業環境
+** オンプレミスリージョン用のBlueXP  コネクタは、BlueXP  で設定する必要があります。を参照してください https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["コネクタを設定するためのBlueXPドキュメント"^]。
++
+BlueXP  Connectorからクラスタを削除した場合、そのクラスタに関連するアラートは90日間保持されます。また、コネクタを変更しても、アラートは元のクラスタとコネクタに90日間関連付けられたままになります。元のコネクタに戻ると、これらのアラートが再び表示されます。
+
+** オンプレミスのONTAPクラスタに接続するアクティブなコネクタが少なくとも1つあるBlueXP  組織。ソース環境と作業環境はすべて同じBlueXP  組織内にある必要があります。
+** リソースを検出するためのOrganization Admin Privilegesを持つ組織内のBlueXP  ユーザ
+** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXPの標準の要件"^]
+
+
+

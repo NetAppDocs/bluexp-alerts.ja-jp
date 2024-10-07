@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-login.html 
+keywords: bluexp login, log in, ontap, netapp 
+summary: BlueXP  でサービスにアクセスして、BlueXP  アラートの使用を開始します。 
+---
+= BlueXP  アラートへのアクセス
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp BlueXP  を使用して、BlueXP  アラートサービスにログインします。
+
+BlueXP  にログインするには、NetAppサポートサイトのクレデンシャルを使用するか、Eメールアドレスとパスワードを使用してNetAppクラウドログインにサインアップします。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["ログインの詳細については、こちらをご覧ください"^]です。
+
+.手順
+. Webブラウザを開き、に移動します https://console.bluexp.netapp.com/["BlueXPコンソール"^]。
++
+NetApp BlueXPのログインページが表示されます。
+
+. BlueXPにログインします。
+. BlueXP  の左側のナビゲーションから、* Monitoring *>* Alerts *を選択します。
++
+[Alerts]リストページが表示されます。
+
++
+image:alerts-dashboard.png["BlueXP  アラートリストページ"]
+
+

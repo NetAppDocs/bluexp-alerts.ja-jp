@@ -1,0 +1,81 @@
+---
+sidebar: sidebar 
+permalink: concept-alerts.html 
+keywords: netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
+summary: BlueXP  アラートは、容量、パフォーマンス、可用性、セキュリティに関するNetApp ONTAP環境の問題や潜在的なリスクを表示できるサービスです。このサービスでは、NetAppシステムマネージャを使用して詳細にドリルダウンできます。 
+---
+= BlueXP  アラートの詳細
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+BlueXP  アラートは、標準のBlueXP  Connectorを使用して、NetAppオンプレミスONTAP環境の問題や潜在的なリスクを確認できるサービスです。このサービスでは、NetAppシステムマネージャを使用して詳細にドリルダウンできます。
+
+
+
+== BlueXP  アラートの機能
+
+BlueXP  アラートサービスを使用すると、ONTAPストレージ環境のリスクや潜在的なリスクを常に把握できます。一部の非EMSアラートと一部のEMSアラートが表示されます。BlueXP  アラートサービスは、次の重大度と影響領域に関する情報を提供します。
+
+* *重大度*：重大、警告、情報
+* *影響範囲*：容量、パフォーマンス、保護、可用性、セキュリティ、構成
+
+
+
+TIP: BlueXP  UIの右上にある[Notifications]オプションでは、BlueXP  の実行中の処理のステータスを監視することで、対処が必要な問題を特定できます。これらの通知をEメールに送信することができます。[Notifications]オプションには、BlueXP  アラートサービスからのアラートは含まれません。
+
+
+
+== BlueXP  アラートを使用するメリット
+
+BlueXP  アラートには次の利点があります。
+
+* クラスタ間でONTAPストレージに関するアラートを受信します。
+* 他のサービスと同じBlueXP  UIでアラートを表示します。
+* ONTAPクラスタのアラートにドリルダウンします。BlueXP  アラートから開始して、NetAppシステムマネージャで詳細を確認します。
+
+
+
+
+== コスト
+
+BlueXP  アラートのフルバージョンは、NetApp ONTAPライセンスで使用できます。
+
+
+
+== ライセンス
+
+BlueXP  アラートサービスにはNetApp ONTAP 9 .10以上のライセンスが必要です。
+
+このサービスの試用版ライセンスは必要ありません。
+
+このサービスは、BlueXP  標準（パブリック）モードでのみ展開できます。詳細については、を参照してください link:alerts-start-licenses.html["ライセンスをセットアップする"]。
+
+
+
+== BlueXP  アラートの仕組み
+
+BlueXP  アラートサービスは、BlueXP  のコアコンポーネントです。BlueXP  アラートサービスは、ONTAPクラスタを監視し、ONTAPからアラートデータを受信します。
+
+BlueXP  アラートは、BlueXP  SaaS環境でのみ使用できます。ローカルコネクタUIでは使用できません。
+
+
+
+== サポートされている作業環境とデータソース
+
+BlueXP  アラートを使用して、次の作業環境とデータソースの問題を確認します。
+
+*サポートされる作業環境*
+
+オンプレミスのONTAP NASまたはSAN作業環境がサポートされます。
+
+現時点では、Cloud Volumes ONTAP作業環境はサポートされていません。
+
+*サポートされるデータソース*
+
+このサービスは、ONTAPで発生する特定のイベントに関するアラートを提供します。EMSとメトリックベースのアラートを組み合わせたものです。

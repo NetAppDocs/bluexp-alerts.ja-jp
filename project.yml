@@ -1,0 +1,46 @@
+---
+settings:
+  name: BlueXP alerts
+  platform: cloud
+  internal:
+    pdf_enabled: true
+    termcheck_enabled: true
+    lipi_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  rss_page: whats-new.html
+  langs: ja-jp,us-en,ko-kr,zh-cn,zh-tw,de-de,es-es,fr-fr,it-it
+sidebar:
+  entries:
+  - title: BlueXP  アラートのドキュメント
+    url: "/index.html"
+  - title: リリースノート
+    url: "/whats-new.html"
+  - title: 開始する
+    entries:
+    - title: BlueXP  アラートの詳細
+      url: "/concept-alerts.html"
+    - title: 前提条件
+      url: "/alerts-start-prerequisites.html"
+    - title: クイックスタート
+      url: "/alerts-start-quick-start.html"
+    - title: BlueXP  アラートの設定
+      url: "/alerts-start-setup.html"
+    - title: BlueXP  アラートへのアクセス
+      url: "/alerts-start-login.html"
+  - title: BlueXP  アラートの使用
+    entries:
+    - title: BlueXP  アラートの使用の概要
+      url: "/alerts-use-overview.html"
+    - title: ONTAPストレージの潜在的なリスクを表示
+      url: "/alerts-use-dashboard.html"
+    - title: ストレージ環境のアラートの表示
+      url: "/alerts-use-alerts.html"
+  - title: よくある質問
+    url: "/alerts-faq.html"
+  - title: 法的通知
+    url: "/legal-notices.html"
+product-family:
+  name: BlueXP
+  repo: bluexp-family

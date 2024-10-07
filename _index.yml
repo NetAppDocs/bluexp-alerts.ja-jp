@@ -1,0 +1,33 @@
+---
+indexpage:
+  title: BlueXP  アラートのドキュメント
+  summary: BlueXP  アラートは、NetApp ONTAP環境の問題や潜在的なリスクを表示できるサービスです。このサービスでは、NetAppシステムマネージャを使用してアラートの詳細にドリルダウンし、クラスタ情報を表示できます。
+  keywords: bluexp, ONTAP, alerts, system manager
+  lead: BlueXP  アラートは、容量、パフォーマンス、保護、可用性、セキュリティに関するNetApp ONTAP環境の問題や潜在的なリスクを表示できるサービスです。このサービスを使用すると、アラートの詳細にドリルダウンして、NetAppシステムマネージャにリンクされたクラスタ情報を表示できます。
+  tiles:
+  - title: 開始する
+    links:
+    - title: BlueXP  アラートの詳細
+      url: "/concept-alerts.html"
+    - title: BlueXP  アラートの新機能
+      url: "/whats-new.html"
+    - title: 前提条件
+      url: "/alerts-start-prerequisites.html"
+    - title: クイックスタート
+      url: "/alerts-start-quick-start.html"
+    - title: BlueXP  アラートの設定
+      url: "/alerts-start-setup.html"
+    - title: よくある質問
+      url: "/alerts-faq.html"
+  - title: BlueXP  アラートの使用
+    links:
+    - title: BlueXP  アラートの使用の概要
+      url: "/alerts-use-overview.html"
+    - title: "[アラート]リストページを使用したワークロードの健全性の表示"
+      url: "/alerts-use-dashboard.html"
+  - title: ブログとコミュニティ
+    links:
+    - title: NetAppコミュニティ
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: クラウドに関する Web セミナー
+      url: https://bluexp.netapp.com/events

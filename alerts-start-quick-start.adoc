@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-quick-start.html 
+keywords: how to get started with bluexp alerts, alerts quick start 
+summary: NetApp BlueXP  アラートサービスの使用を開始するには、いくつかの手順を実行します。 
+---
+= BlueXP  アラートのクイックスタート
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+ここでは、BlueXP  アラートの使用を開始するために必要な手順の概要を示します。各ステップ内のリンクから、詳細が記載されたページに移動できます。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["1つ"] 前提条件の確認
+[role="quick-margin-para"]
+link:alerts-start-prerequisites.html["環境がこれらの要件を満たしていることを確認します"]です。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["2つ"]アラートサービスのセットアップ
+[role="quick-margin-para"]
+link:alerts-start-setup.html["BlueXPでのコネクタの設定"]です。
+
+.image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["3つ"] 次は何ですか？
+[role="quick-margin-para"]
+サービスを設定した後、次に行うべきことは次のとおりです。
+
+[role="quick-margin-list"]
+* link:alerts-use-dashboard.html["ストレージの問題と潜在的なリスクを[Alerts]リストページで確認"]です。
+* link:alerts-use-alerts.html["System Managerでのアラートの詳細の表示"]です。
+

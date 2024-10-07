@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: alerts-use-overview.html 
+keywords: alerts, alerts, ontap, netapp 
+summary: BlueXP  アラートを使用して、ワークロードの健常性を確認し、ワークロードを保護することができます。 
+---
+= BlueXP  アラートの使用
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+BlueXP  アラートを使用すると、ストレージの問題を確認したり、System Managerに直接リンクして詳細を確認したりできます。
+
+* link:alerts-use-dashboard.html["ストレージの問題や潜在的なリスクを[Alerts]リストページで確認"]です。
+* link:alerts-use-alerts.html["System Managerでリンクされているアラートの詳細を表示する"]
+

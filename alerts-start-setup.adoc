@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: alerts-start-setup.html 
+keywords: bluexp, alerts, ontap, netapp 
+summary: BlueXP  アラートを使用するには、いくつかの手順を実行して設定します。 
+---
+= BlueXP  アラートの設定
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+BlueXP  アラートを使用するには、いくつかの手順を実行して設定します。
+
+作業を開始する前に、を参照して、link:alerts-start-prerequisites.html["前提条件"]環境の準備が完了していることを確認してください。
+
+確認 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXPの標準の要件"^]：
+
+
+
+== クラスタリソースへのアクセス
+
+アラートを表示するには、ログインしているユーザがBlueXP  組織に属しており、クラスタリソースへの必要なアクセス権を持っている必要があります。
+
+
+
+== BlueXPコネクタの作成
+
+このサービスを試用または使用するには、NetApp営業担当者にお問い合わせください。その後、BlueXP  Connectorを使用すると、アラートサービスの適切な機能が含まれます。
+
+サービスを使用する前にBlueXP  でコネクタを作成するには、説明されているBlueXP  のマニュアルを参照して https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXPコネクタの作成方法"^]ください。
+
+コネクタをセットアップして作業環境を追加したら、最初の検出が行われるまで約15分待ちます。
