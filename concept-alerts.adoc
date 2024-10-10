@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-alerts.html 
 keywords: netapp, ontap, alert, capacity, performance, availability, security, protection, bluexp, bluexp alerts 
-summary: BlueXP  アラートは、容量、パフォーマンス、可用性、セキュリティに関するNetApp ONTAP環境の問題や潜在的なリスクを表示できるサービスです。このサービスでは、NetAppシステムマネージャを使用して詳細にドリルダウンできます。 
+summary: BlueXP  アラートは、容量、パフォーマンス、可用性、セキュリティに関するNetApp ONTAP環境の問題や潜在的なリスクを表示できるサービスです。このサービスでは、ONTAPシステムマネージャを使用して詳細にドリルダウンできます。 
 ---
 = BlueXP  アラートの詳細
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: BlueXP  アラートは、容量、パフォーマンス、可用性�
 
 
 [role="lead"]
-BlueXP  アラートは、標準のBlueXP  Connectorを使用して、NetAppオンプレミスONTAP環境の問題や潜在的なリスクを確認できるサービスです。このサービスでは、NetAppシステムマネージャを使用して詳細にドリルダウンできます。
+BlueXP  アラートは、標準のBlueXP  Connectorを使用して、NetAppオンプレミスONTAP環境の問題や潜在的なリスクを確認できるサービスです。このサービスでは、ONTAPシステムマネージャを使用して詳細にドリルダウンできます。
 
 
 
