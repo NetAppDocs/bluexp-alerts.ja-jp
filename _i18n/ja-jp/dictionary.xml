@@ -242,8 +242,6 @@
   <block id="82cf93c6b22e730b302286dee304e8cc" category="paragraph">BlueXP  アラートのフルバージョンは、NetApp ONTAPライセンスで使用できます。</block>
   <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">ライセンス</block>
   <block id="1b083639d38de1b116aea6c5558968ec" category="paragraph">BlueXP  アラートサービスにはNetApp ONTAP 9 .10以上のライセンスが必要です。</block>
-  <block id="e907b41f5f3d7332bee5a43fbbf78a08" category="inline-link-macro">ライセンスをセットアップする</block>
-  <block id="d69945d07ffe69d68b278fa3f6ee11ac" category="paragraph">このサービスは、BlueXP  標準（パブリック）モードでのみ展開できます。詳細については、を参照してください <block ref="271bc4c83b3d27b2a7fc60eb23418118" category="inline-link-macro-rx"></block>。</block>
   <block id="55a90d444e30ddc01cd8a8da27cd9018" category="section-title">BlueXP  アラートの仕組み</block>
   <block id="3e552726fea4952e3fd397f2cbf69243" category="paragraph">BlueXP  アラートサービスは、BlueXP  のコアコンポーネントです。BlueXP  アラートサービスは、ONTAPクラスタを監視し、ONTAPからアラートデータを受信します。</block>
   <block id="78097856f6f945c9619179338ebbf597" category="paragraph">BlueXP  アラートは、BlueXP  SaaS環境でのみ使用できます。ローカルコネクタUIでは使用できません。</block>
@@ -299,4 +297,5 @@
   <block id="864130dd293829108709c2327b91d445" category="paragraph">BlueXP  アラートは、標準のBlueXP  Connectorを使用して、NetAppオンプレミスONTAP環境の問題や潜在的なリスクを確認できるサービスです。このサービスでは、ONTAPシステムマネージャを使用して詳細にドリルダウンできます。</block>
   <block id="a138b80b6963a03eb4d692dbdc025e3e" category="sidebar">BlueXP  アラートは、容量、パフォーマンス、保護、可用性、セキュリティに関するNetApp ONTAP環境の問題や潜在的なリスクを表示できるサービスです。このサービスを使用すると、アラートの詳細にドリルダウンして、ONTAPシステムマネージャにリンクされたクラスタ情報を表示できます。</block>
   <block id="164a30a809f9f6485699e82e4c81d60c" category="sidebar">BlueXP  アラートは、NetApp ONTAP環境の問題や潜在的なリスクを表示できるサービスです。このサービスでは、ONTAPシステムマネージャを使用してアラートの詳細にドリルダウンし、クラスタ情報を表示できます。</block>
+  <block id="83e69dcb76418af8dc10c3db810ded80" category="paragraph">このサービスは、BlueXP  標準（パブリック）モードでのみ展開できます。</block>
 </blocks>
