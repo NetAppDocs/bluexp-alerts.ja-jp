@@ -28,5 +28,5 @@ link:alerts-start-setup.html["BlueXPでのコネクタの設定"]です。
 
 [role="quick-margin-list"]
 * link:alerts-use-dashboard.html["ストレージの問題と潜在的なリスクを[Alerts]リストページで確認"]です。
-* link:alerts-use-alerts.html["System Managerでのアラートの詳細の表示"]です。
+* link:alerts-use-alerts.html["ONTAP System Managerでのアラートの詳細の表示"]です。
 

@@ -4,7 +4,7 @@ permalink: whats-new.html
 keywords: 'what"s new, features, new, release notes, bugs, limitations, known issues, enhancements, fixes, ontap, bluexp, system manager' 
 summary: BlueXP  アラートの新機能について説明します。 
 ---
-= リリースノート：BlueXP  アラート保護の新機能
+= BlueXP  アラートの新機能
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 
@@ -22,9 +22,9 @@ BlueXP  アラートの新機能について説明します。
 
 BlueXP  アラートのこの初期リリースには、次の機能が含まれています。
 
-* * BlueXP  アラートリストページ*：容量やパフォーマンスが低いONTAPクラスタをすばやく特定し、可用性の範囲を測定して、セキュリティリスクを特定できます。容量、パフォーマンス、保護、可用性、セキュリティ、構成に関連するアラートを表示できます。
+* * BlueXP  アラートのリストページ*：容量やパフォーマンスが低いONTAPクラスタをすばやく特定し、可用性の範囲を測定して、セキュリティリスクを特定できます。容量、パフォーマンス、保護、可用性、セキュリティ、構成に関連するアラートを表示できます。
 * *アラートの詳細*:アラートの詳細にドリルダウンして、推奨事項を見つけることができます。
-* * System Managerにリンクされたクラスタの詳細を表示*：BlueXP  アラートを使用すると、ONTAPストレージ環境に関連付けられているアラートを表示し、NetApp System Managerにリンクされている詳細にドリルダウンできます。
+* * System Managerにリンクされたクラスタの詳細を表示*：BlueXP  アラートを使用すると、ONTAPストレージ環境に関連付けられているアラートを表示し、ONTAP System Managerにリンクされている詳細にドリルダウンできます。
 
 
 https://docs.netapp.com/us-en/bluexp-alerts/concept-alerts.html["BlueXP  アラートの詳細"]です。

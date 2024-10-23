@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: alerts-use-alerts.html 
 keywords: alerts, ontap, netapp, system manager, bluexp 
-summary: BlueXP  アラートを使用すると、ONTAPストレージ環境に関連付けられているアラートを表示し、BlueXP  System Managerにリンクされている詳細にドリルダウンできます。 
+summary: BlueXP  アラートを使用すると、ONTAPストレージ環境に関連付けられているアラートを表示し、ONTAP System Managerにリンクされている詳細にドリルダウンできます。 
 ---
 = ONTAPストレージ環境でのアラートの詳細の表示
 :hardbreaks:
@@ -28,14 +28,14 @@ image:alerts-detail.png["アラートの詳細"]
 
 
 
-== BlueXP  System Managerでクラスタに関する詳細を表示する
+== ONTAP System Managerでクラスタに関する詳細を表示する
 
 . [Alerts]リストページで、アラートを選択します。
 . アラートで、ページ上部のクラスタ名をクリックします。
 +
-BlueXP  System Managerにクラスタに関する情報が表示されるようになりました。
+ONTAP System Managerにクラスタに関する情報が表示されるようになりました。
 
 +
-image:alerts-system-manager-cluster.png["クラスタ情報を表示するBlueXP  System Manager"]
+image:alerts-system-manager-cluster.png["クラスタ情報を表示するONTAP System Manager"]
 
 

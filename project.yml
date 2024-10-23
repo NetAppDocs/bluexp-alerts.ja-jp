@@ -16,7 +16,9 @@ sidebar:
   - title: BlueXP  アラートのドキュメント
     url: "/index.html"
   - title: リリースノート
-    url: "/whats-new.html"
+    entries:
+    - title: BlueXP  アラートの新機能
+      url: "/whats-new.html"
   - title: 開始する
     entries:
     - title: BlueXP  アラートの詳細
