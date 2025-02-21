@@ -16,7 +16,7 @@
 
 
 
-=== System Managerにリンクされたクラスタの詳細の表示
+=== ONTAP System Managerにリンクされたクラスタの詳細の表示
 
 BlueXP  アラートを使用すると、ONTAPストレージ環境に関連付けられているアラートを表示し、ONTAP System Managerにリンクされている詳細にドリルダウンできます。
 

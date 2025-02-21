@@ -139,7 +139,7 @@ EMSアラート：
 
 
 ====
-ONTAPアラートの詳細については、ONTAPのドキュメントとSystem Managerの分析情報を参照してください https://docs.netapp.com/us-en/ontap/concepts/insights-system-optimization-concept.html["容量、セキュリティ、設定の問題に関するSystem Managerの分析情報"^]。
+ONTAPアラートの詳細については、ONTAPのドキュメントおよびONTAP System Managerのインサイトを参照してください https://docs.netapp.com/us-en/ontap/concepts/insights-system-optimization-concept.html["容量、セキュリティ、設定の問題に関するONTAP System Managerの分析情報"^]。
 
 
 
